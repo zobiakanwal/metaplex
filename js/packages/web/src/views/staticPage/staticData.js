@@ -1,6 +1,6 @@
 export const data = {
   headContent: {
-    title: 'We are Metaplex',
+    title: 'We are Gamepus',
     subtitle: 'About Us',
     bannerImage: '/main-banner.png',
   },
@@ -14,7 +14,7 @@ export const data = {
           '• Starting a variety of auctions for primary/secondary sales;',
           '• and Visualizing NFTs in a standard way across wallets and applications.',
         ],
-        image: '/main-banner.png',
+        image: '/mybanner.png',
       },
     ],
   },
